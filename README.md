@@ -11,3 +11,7 @@ Descrição: Entendi um pouco mais sobre o SLA dentro da plataforma Azure e tamb
 
 [DESAFIO 3] Configurando uma instância de Banco de Dados na Azure
 Descrição: Aprendi um pouco mais sobre criação de maquinas virtuais e algumas informações sobre a criação de um banco de dados SQL.
+
+
+[DESAFIO 4] Construindo Arquiteturas no Azure
+Descriçãp: Aprendi sobre como funciona so datacenters da microsoft, criação de grupo de recursos na azure, criação de rede virutal na azure.

@@ -7,3 +7,7 @@ Descrição: Neste desafio aprendi a identificar onde ficar algumas ferramentas 
 
 [DESAFIO 2] Criando máquinas Virtuais na Azure
 Descrição: Entendi um pouco mais sobre o SLA dentro da plataforma Azure e também a criar parte de uma maquina virtual criada atraves da plataforma Azure, informações sobre a conta de armazenamento.
+
+
+[DESAFIO 3] Configurando uma instância de Banco de Dados na Azure
+Descrição: Aprendi um pouco mais sobre criação de maquinas virtuais e algumas informações sobre a criação de um banco de dados SQL.
